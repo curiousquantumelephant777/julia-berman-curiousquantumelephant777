@@ -5,10 +5,7 @@
 
 **UCLA B.S. Biology '22** | Independent Researcher 
 *Investigating Neuroplasticity, Epigenetic Modulation, Quantum Biology, and Neurotrophic Factors*
-
-- **Applied to:** UCLA MCDB Master's Program (Fall 2026)
-- **Important Note:** I recently received some bad news that my thyroid nodules are indeterminate (Bethesda III), meaning they may be cancerous. I have decided to use the data I found to generate a comprehensive systems-level hypothesis to support my systems-biology-thyroid-remodeling repo which you can read about [here](https://github.com/curiousquantumelephant777/systems-biology-thyroid-remodeling/blob/main/Comprehensive%20Systems%20Biology%20Analysis%20for%20Pathology%20Requisition.pdf).
-
+Can
 ## $\color{mediumpurple}{\text{🧬 About Me}}$
 
 Inspired by my lived experience with autism and a fascinating deep dive into the social polar opposite (Williams Syndrome), I became interested in decoding the biological and nonlinear quantum biochemical frameworks that underlie our dynamic reality. I am an independent biological sciences and topology researcher passionate about understanding neuroplasticity, neurotrophic factors (especially GDNF), non-linear topological dynamics in biological systems, and how the brain can adapt and repair. My independent research focuses on literature synthesis and basic computational approaches to neurotransmitter and growth factor pathways.
